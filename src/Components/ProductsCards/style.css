@@ -1,0 +1,10 @@
+.cart:hover{
+    border: 1px solid rgb(18, 173, 18);
+    cursor: pointer;
+}
+
+.cart-name:hover {
+    cursor: pointer;
+    color:  rgb(71, 209, 71);
+    border-radius: 5px;     
+}
